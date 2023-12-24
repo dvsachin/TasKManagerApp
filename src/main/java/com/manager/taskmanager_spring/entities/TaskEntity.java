@@ -9,6 +9,6 @@ public class TaskEntity {
     private int id;
     private String title;
     private String description;
-    private String deadline;
+    private Date deadline;
     private boolean completed;
 }
